@@ -19,5 +19,19 @@
 <link rel="stylesheet" href="styles.3ff695c00d717f2d2a11.css"></head>
 <body>
   <app-root></app-root>
-<script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.fec146f4472ee5fb9cac.js"></script><script type="text/javascript" src="main.c953f9b616eb236be171.js"></script></body>
+  <!-- https://shermandigital.com/blog/fix-404-errors-from-angular-projects-hosted-on-github-pages/ -->
+  <script>
+    (function () {
+      // Retrieve the URL the user was trying to access when receiving the 404.
+      var redirect = sessionStorage.redirect;
+      // Remove the URL from sessionStorage.
+      delete sessionStorage.redirect;
+      // Check if we actually need to redirect.
+      if (redirect && redirect != location.href) {
+        // We need to redirect to the URL the user was trying to access.
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
+<script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.fec146f4472ee5fb9cac.js"></script><script type="text/javascript" src="main.bce7f3a90529bc8c9c7a.js"></script></body>
 </html>
