@@ -1,37 +1,46 @@
-,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,type
-0,APPROXIMATE,"Yangon, Myanmar (Burma)",ChIJaxk-Ip6UwTARtAsI-HHS-1Y,Yangon,16.8660694,96.19513200000002,1,,OK,"locality,political"
-1,APPROXIMATE,"Naypyitaw, Myanmar (Burma)",ChIJwRfx4-S-yDAR2k7CyVCrkNA,Naypyitaw,19.7633057,96.07851040000001,1,,OK,"locality,political"
-2,APPROXIMATE,"Mandalay, Myanmar (Burma)",ChIJEXTS8CNtyzARRlZOHuBrFCQ,Mandalay,21.9588282,96.0891032,1,,OK,"locality,political"
-3,APPROXIMATE,"Old Bagan, Myanmar (Burma)",ChIJYcrYkwPltTARgZnowxdHGjc,Bagan,21.1717271,94.8585458,1,,OK,"locality,political"
-4,APPROXIMATE,"Ngwesaung, Myanmar (Burma)",ChIJA9mBalE1vjARIlByyAm6xHE,Ngwesaung,16.8685083,94.3847814,1,,OK,"locality,political"
-5,APPROXIMATE,"Ngapali Beach, Myanmar (Burma)",ChIJO5i4IUwZuTARHYI-4nzE_fQ,Ngapali,18.3802687,94.33564249999999,1,,OK,"establishment,natural_feature"
-6,APPROXIMATE,"Pyay, Myanmar (Burma)",ChIJdYENe1GDxzARjmS4gGRc8Ls,Pyay,18.8406029,95.2579968,1,,OK,"locality,political"
-7,APPROXIMATE,"Bago, Myanmar (Burma)",ChIJQ-kIR7nWwzARMm8-jfl6q2U,Bago,17.3220711,96.4663286,1,,OK,"locality,political"
-8,APPROXIMATE,"Bangkok, Thailand",ChIJ82ENKDJgHTERIEjiXbIAAQE,Bangkok,13.7563309,100.5017651,1,,OK,"locality,political"
-9,APPROXIMATE,"Ko Samui, Ko Samui District, Surat Thani, Thailand",ChIJbyZmHFDxVDARMIN9Pb1a1e0,Koh Samui,9.5120168,100.0135929,1,,OK,"establishment,natural_feature"
-10,APPROXIMATE,Singapore,ChIJdZOLiiMR2jERxPWrUs9peIg,Singapore,1.352083,103.819836,1,,OK,"country,political"
-11,APPROXIMATE,"Seoul, South Korea",ChIJzWXFYYuifDUR64Pq5LTtioU,Seoul,37.566535,126.9779692,1,,OK,"locality,political"
-12,APPROXIMATE,"Arcadia, CA, USA",ChIJK8q408XbwoARiymu0ttQqEw,Arcadia California,34.1397292,-118.0353449,1,,OK,"locality,political"
-13,APPROXIMATE,"Sydney NSW, Australia",ChIJP3Sa8ziYEmsRUKgyFmh9AQM,Sydney,-33.8688197,151.2092955,1,,OK,"colloquial_area,locality,political"
-14,APPROXIMATE,"Beijing, China",ChIJuSwU55ZS8DURiqkPryBWYrk,Beijing,39.90419989999999,116.4073963,1,,OK,"locality,political"
-15,APPROXIMATE,"Shanghai, China",ChIJMzz1sUBwsjURoWTDI5QSlQI,Shanghai,31.2303904,121.4737021,1,,OK,"locality,political"
-16,APPROXIMATE,"Xi'an, Shaanxi, China",ChIJuResIul5YzYRLliUp_1m1IU,Xi an,34.341574,108.93977,1,,OK,"locality,political"
-17,APPROXIMATE,"Taipei, Taiwan",ChIJmQrivHKsQjQR4MIK3c41aj8,Taipei,25.0329694,121.5654177,1,,OK,"colloquial_area,locality,political"
-18,APPROXIMATE,"Tainan, East District, Tainan City, Taiwan",ChIJK_I1UZN2bjQRnLZaGDT61Rw,Tainan,22.9997281,120.2270277,1,,OK,"colloquial_area,locality,political"
-19,APPROXIMATE,"Toronto, ON, Canada",ChIJpTvG15DL1IkRd8S0KlBVNTI,Toronto,43.653226,-79.3831843,1,,OK,"locality,political"
-20,APPROXIMATE,"Vancouver, BC, Canada",ChIJs0-pQ_FzhlQRi_OBm-qWkbs,Vancouver,49.2827291,-123.1207375,1,,OK,"locality,political"
-21,APPROXIMATE,"San Francisco, CA, USA",ChIJIQBpAG2ahYAR_6128GcTUEo,San Francisco,37.7749295,-122.4194155,1,,OK,"locality,political"
-22,APPROXIMATE,"Seattle, WA, USA",ChIJVTPokywQkFQRmtVEaUZlJRA,Seattle,47.6062095,-122.3320708,1,,OK,"locality,political"
-23,APPROXIMATE,"New York, NY, USA",ChIJOwg_06VPwokRYv534QaPC8g,New York,40.7127753,-74.0059728,1,,OK,"locality,political"
-24,APPROXIMATE,Dubai - United Arab Emirates,ChIJRcbZaklDXz4RYlEphFBu5r0,Dubai,25.2048493,55.2707828,1,,OK,"locality,political"
-25,APPROXIMATE,"San Jose, CA, USA",ChIJ9T_5iuTKj4ARe3GfygqMnbk,San Jose,37.3382082,-121.8863286,1,,OK,"locality,political"
-26,APPROXIMATE,"San Diego, CA, USA",ChIJSx6SrQ9T2YARed8V_f0hOg0,San Diego California,32.715738,-117.1610838,1,,OK,"locality,political"
-27,APPROXIMATE,"Los Angeles, CA, USA",ChIJE9on3F3HwoAR9AhGJW_fL-I,Los Angeles,34.0522342,-118.2436849,1,,OK,"locality,political"
-28,APPROXIMATE,"Santa Monica, CA, USA",ChIJGQCRws6kwoARq_Uj_7UKF7Q,Santa Monica,34.0194543,-118.4911912,1,,OK,"locality,political"
-29,APPROXIMATE,"Westwood, Los Angeles, CA, USA",ChIJecf92oa8woARVlNT9X_x42M,Westwood California,34.0635016,-118.4455164,1,,OK,"neighborhood,political"
-30,APPROXIMATE,"Riverside, CA, USA",ChIJu330f9-m3IAR6ApeEwXXofc,Riverside,33.9806005,-117.3754942,1,,OK,"locality,political"
-31,APPROXIMATE,"Las Vegas, NV, USA",ChIJ0X31pIK3voARo3mz1ebVzDo,Las Vegas,36.1699412,-115.1398296,1,,OK,"locality,political"
-32,APPROXIMATE,"Whistler, BC V0N, Canada",ChIJh3uVA7I8h1QR9s_1dehBt0o,Whistler,50.1163196,-122.9573563,1,V0N,OK,"locality,political"
-33,APPROXIMATE,"Boston, MA, USA",ChIJGzE9DS1l44kRoOhiASS_fHg,Boston,42.3600825,-71.0588801,1,,OK,"locality,political"
-34,APPROXIMATE,"Philadelphia, PA, USA",ChIJ60u11Ni3xokRwVg-jNgU9Yk,Philadelphia,39.9525839,-75.1652215,1,,OK,"locality,political"
-35,APPROXIMATE,"Pittsburgh, PA, USA",ChIJA4UGSG_xNIgRNBuiWqEV-Y0,Pittsburgh,40.44062479999999,-79.9958864,1,,OK,"locality,political"
+,formatted_address,latitude,longitude,accuracy,google_place_id,type,postcode,input_string,number_of_results,status
+0,"Yangon, Myanmar (Burma)",16.840939,96.173526,APPROXIMATE,ChIJaxk-Ip6UwTARtAsI-HHS-1Y,"locality,political",,Yangon,1,OK
+1,"Naypyitaw, Myanmar (Burma)",19.7633057,96.07851040000001,APPROXIMATE,ChIJwRfx4-S-yDAR2k7CyVCrkNA,"locality,political",,Naypyitaw,1,OK
+2,"Mandalay, Myanmar (Burma)",21.9588282,96.0891032,APPROXIMATE,ChIJEXTS8CNtyzARRlZOHuBrFCQ,"locality,political",,Mandalay,1,OK
+3,"Old Bagan, Myanmar (Burma)",21.1717271,94.8585458,APPROXIMATE,ChIJYcrYkwPltTARgZnowxdHGjc,"locality,political",,Bagan,1,OK
+4,"Ngwesaung, Myanmar (Burma)",16.8685083,94.3847814,APPROXIMATE,ChIJA9mBalE1vjARIlByyAm6xHE,"locality,political",,Ngwesaung,1,OK
+5,"Ngapali Beach, Myanmar (Burma)",18.3802687,94.33564249999999,APPROXIMATE,ChIJO5i4IUwZuTARHYI-4nzE_fQ,"establishment,natural_feature",,Ngapali,1,OK
+6,"Pyay, Myanmar (Burma)",18.8406029,95.2579968,APPROXIMATE,ChIJdYENe1GDxzARjmS4gGRc8Ls,"locality,political",,Pyay,1,OK
+7,"Bago, Myanmar (Burma)",17.3220711,96.4663286,APPROXIMATE,ChIJQ-kIR7nWwzARMm8-jfl6q2U,"locality,political",,Bago,1,OK
+8,"Bokpyin, Myanmar (Burma)",11.2562027,98.7618849,APPROXIMATE,ChIJoyj642Ie-TARNgEXGGGIYoI,"locality,political",,Bokpyin,1,OK
+9,"Bangkok, Thailand",13.7563309,100.5017651,APPROXIMATE,ChIJ82ENKDJgHTERIEjiXbIAAQE,"locality,political",,Bangkok,1,OK
+10,"Ko Samui, Ko Samui District, Surat Thani, Thailand",9.5120168,100.0135929,APPROXIMATE,ChIJbyZmHFDxVDARMIN9Pb1a1e0,"establishment,natural_feature",,Koh Samui,1,OK
+11,Singapore,1.352083,103.819836,APPROXIMATE,ChIJdZOLiiMR2jERxPWrUs9peIg,"country,political",,Singapore,1,OK
+12,"Seoul, South Korea",37.566535,126.9779692,APPROXIMATE,ChIJzWXFYYuifDUR64Pq5LTtioU,"locality,political",,Seoul,1,OK
+13,"Arcadia, CA, USA",34.1397292,-118.0353449,APPROXIMATE,ChIJK8q408XbwoARiymu0ttQqEw,"locality,political",,Arcadia California,1,OK
+14,"Sydney NSW, Australia",-33.8688197,151.2092955,APPROXIMATE,ChIJP3Sa8ziYEmsRUKgyFmh9AQM,"colloquial_area,locality,political",,Sydney,1,OK
+15,"Beijing, China",39.90419989999999,116.4073963,APPROXIMATE,ChIJuSwU55ZS8DURiqkPryBWYrk,"locality,political",,Beijing,1,OK
+16,"Shanghai, China",31.230416,121.473701,APPROXIMATE,ChIJMzz1sUBwsjURoWTDI5QSlQI,"locality,political",,Shanghai,1,OK
+17,"Xi'an, Shaanxi, China",34.341574,108.93977,APPROXIMATE,ChIJuResIul5YzYRLliUp_1m1IU,"locality,political",,Xi an,1,OK
+18,"Taipei, Taiwan",25.0329694,121.5654177,APPROXIMATE,ChIJmQrivHKsQjQR4MIK3c41aj8,"colloquial_area,locality,political",,Taipei,1,OK
+19,"Tainan, East District, Tainan City, Taiwan",22.9997281,120.2270277,APPROXIMATE,ChIJK_I1UZN2bjQRnLZaGDT61Rw,"colloquial_area,locality,political",,Tainan,1,OK
+20,"Toronto, ON, Canada",43.653226,-79.3831843,APPROXIMATE,ChIJpTvG15DL1IkRd8S0KlBVNTI,"locality,political",,Toronto,1,OK
+21,"Vancouver, BC, Canada",49.2827291,-123.1207375,APPROXIMATE,ChIJs0-pQ_FzhlQRi_OBm-qWkbs,"locality,political",,Vancouver,1,OK
+22,"San Francisco, CA, USA",37.7749295,-122.4194155,APPROXIMATE,ChIJIQBpAG2ahYAR_6128GcTUEo,"locality,political",,San Francisco,1,OK
+23,"Seattle, WA, USA",47.6062095,-122.3320708,APPROXIMATE,ChIJVTPokywQkFQRmtVEaUZlJRA,"locality,political",,Seattle,1,OK
+24,"New York, NY, USA",40.7127753,-74.0059728,APPROXIMATE,ChIJOwg_06VPwokRYv534QaPC8g,"locality,political",,New York,1,OK
+25,Dubai - United Arab Emirates,25.2048493,55.2707828,APPROXIMATE,ChIJRcbZaklDXz4RYlEphFBu5r0,"locality,political",,Dubai,1,OK
+26,"San Jose, CA, USA",37.3382082,-121.8863286,APPROXIMATE,ChIJ9T_5iuTKj4ARe3GfygqMnbk,"locality,political",,San Jose,1,OK
+27,"San Diego, CA, USA",32.715738,-117.1610838,APPROXIMATE,ChIJSx6SrQ9T2YARed8V_f0hOg0,"locality,political",,San Diego California,1,OK
+28,"Los Angeles, CA, USA",34.0522342,-118.2436849,APPROXIMATE,ChIJE9on3F3HwoAR9AhGJW_fL-I,"locality,political",,Los Angeles,1,OK
+29,"Santa Monica, CA, USA",34.0194543,-118.4911912,APPROXIMATE,ChIJGQCRws6kwoARq_Uj_7UKF7Q,"locality,political",,Santa Monica,1,OK
+30,"Westwood, CA 96137, USA",40.3059999,-121.0057931,APPROXIMATE,ChIJYXG4gERwnYAR2YUUxks-QW4,"locality,political",96137,Westwood California,1,OK
+31,"Riverside, CA, USA",33.9806005,-117.3754942,APPROXIMATE,ChIJu330f9-m3IAR6ApeEwXXofc,"locality,political",,Riverside California,1,OK
+32,"Las Vegas, NV, USA",36.1699412,-115.1398296,APPROXIMATE,ChIJ0X31pIK3voARo3mz1ebVzDo,"locality,political",,Las Vegas,1,OK
+33,"Whistler, BC V0N, Canada",50.1163196,-122.9573563,APPROXIMATE,ChIJh3uVA7I8h1QR9s_1dehBt0o,"locality,political",V0N,Whistler,1,OK
+34,"Boston, MA, USA",42.3600825,-71.0588801,APPROXIMATE,ChIJGzE9DS1l44kRoOhiASS_fHg,"locality,political",,Boston,1,OK
+35,"Philadelphia, PA, USA",39.9525839,-75.1652215,APPROXIMATE,ChIJ60u11Ni3xokRwVg-jNgU9Yk,"locality,political",,Philadelphia,1,OK
+36,"Pittsburgh, PA, USA",40.44062479999999,-79.9958864,APPROXIMATE,ChIJA4UGSG_xNIgRNBuiWqEV-Y0,"locality,political",,Pittsburgh,1,OK
+37,"Tokyo, Japan",35.6803997,139.7690174,APPROXIMATE,ChIJXSModoWLGGARILWiCfeu2M0,"colloquial_area,locality,political",,Tokyo,1,OK
+38,"Osaka, Japan",34.6937249,135.5022535,APPROXIMATE,ChIJ4eIGNFXmAGAR5y9q5G7BW8U,"locality,political",,Osaka,1,OK
+39,"Kyoto, Japan",35.011564,135.7681489,APPROXIMATE,ChIJ8cM8zdaoAWARPR27azYdlsA,"locality,political",,Kyoto,1,OK
+40,"Kobe, Hyogo, Japan",34.6900806,135.1956311,APPROXIMATE,ChIJ2YntKoF9AGAR9HD2wgZhEsc,"locality,political",,Kobe Japan,1,OK
+41,"Nara, Japan",34.685109,135.8048019,APPROXIMATE,ChIJwQyneMU3AWARIiZJubDZ_ko,"locality,political",,Nara,1,OK
+42,"Portland, OR, USA",45.5051064,-122.6750261,APPROXIMATE,ChIJJ3SpfQsLlVQRkYXR9ua5Nhw,"locality,political",,Portland,1,OK
+43,"Denver, CO, USA",39.7392358,-104.990251,APPROXIMATE,ChIJzxcfI6qAa4cR1jaKJ_j0jhE,"locality,political",,Denver,1,OK
+44,"Claremont, CA, USA",34.0966764,-117.7197785,APPROXIMATE,ChIJX_ane5Q6w4ARTTe8KondetU,"locality,political",,Claremont,1,OK
